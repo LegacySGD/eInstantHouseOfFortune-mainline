@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family code="2056" desc="Lottery Game" organizationName="Interactive" studio="crdc">
+	<game name="House of Wild Prizes WLA" version="1.0.0" gameengineversion="2" gamelogicversion="1.0"
+		number="0"
+		gamegroup="eGames"
+		gametype="L"
+		jackpotid=""
+		loadprevstate="N"
+		numberGenerator="RNG"
+		spots=""
+		productId="1"
+		betMultipliers="50,100,200,300,500,1000,2000"
+		languages="en,en_US,fr_CA,it,sv,de,zh_CN"
+		skbPlatformVersion="1.4.0">
+		<paymodel name="HouseOfFortune : 300-2056-001"
+			modelid="300-2056-001"
+			cointhreshold="0"
+			confidentlevelpct="95"
+			fixedminmax="Y"
+			hibethold="5.06"
+			lobethold="5.06"
+			hibetsd="3.641"
+			lobetsd="3.641"
+			maxmainbetwin="0"
+			maxsidebetwin="0"
+			maxcoins="2000"
+			mincoins="0"
+			revealId="2056"
+			revealVersionId="2056"/>
+		<paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2056-001"/>
+		<paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2056-001"/>
+
+		<denom currencycode="USD" amount="0.01"/>
+		<denom currencycode="EUR" amount="0.01"/>
+		<denom currencycode="CNY" amount="0.01"/>
+		<denom currencycode="NOK" amount="0.01"/>
+		<denom currencycode="CAD" amount="0.01"/>
+		<denom currencycode="FUN" amount="0.01"/>
+		<denom currencycode="FPY" amount="0.01"/>
+
+	</game>
+</family>

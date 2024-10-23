@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="zh_CN">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="总奖金"/>
+<phrase key="totalWager" value="总投注"/>
+<phrase key="lineWin" value="中奖线"/>
+<phrase key="boardSymbols" value="窗花"/>
+<phrase key="boardValues" value="奖金"/>
+</translation>
